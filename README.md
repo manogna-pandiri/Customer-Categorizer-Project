@@ -1,6 +1,6 @@
 # 📊 Customer Personality Analysis and Marketing Campaign Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing customer demographics, purchasing behavior, and marketing campaign responses to understand customer personalities, identify valuable customer segments, and predict campaign acceptance.
 
@@ -10,7 +10,7 @@ The primary goal is to help businesses optimize marketing campaigns, improve cus
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Marketing campaigns are often launched without a clear understanding of customer behavior, resulting in:
 
@@ -28,7 +28,7 @@ This project aims to solve these challenges by:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains customer demographic information, purchasing history, and campaign response data.
 
@@ -68,7 +68,7 @@ The dataset contains customer demographic information, purchasing history, and c
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -81,7 +81,7 @@ The dataset contains customer demographic information, purchasing history, and c
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 The EDA phase focused on understanding customer demographics, purchasing behavior, and campaign engagement patterns.
 
@@ -115,7 +115,7 @@ Store purchases are more frequent than catalog and web purchases.
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Several new business-focused features were created to improve clustering and classification performance.
 
@@ -160,7 +160,7 @@ Calculated using enrollment dates.
 
 ---
 
-## 🤖 Customer Segmentation using K-Means Clustering
+##  Customer Segmentation using K-Means Clustering
 
 ### Objective
 
@@ -184,7 +184,7 @@ Customers were grouped into meaningful segments with similar behavioral patterns
 
 ---
 
-## 📈 Customer Segments Identified
+##  Customer Segments Identified
 
 ### Cluster 0 – High Value Customers
 
@@ -236,7 +236,7 @@ Customers were grouped into meaningful segments with similar behavioral patterns
 
 ---
 
-## 📊 Clustering Insights
+##  Clustering Insights
 
 ### Observation 1
 
@@ -256,7 +256,7 @@ Personalized marketing strategies are more effective than generic campaigns.
 
 ---
 
-## 🤖 Predictive Modeling
+##  Predictive Modeling
 
 ### Objective
 
@@ -272,7 +272,7 @@ Predict whether a customer is likely to respond positively to a marketing campai
 
 ---
 
-## 🔍 Feature Selection
+##  Feature Selection
 
 Feature selection was performed to identify the most influential variables affecting campaign response.
 
@@ -289,7 +289,7 @@ These features showed strong predictive power in determining campaign acceptance
 
 ---
 
-## 🧠 Classification Models
+##  Classification Models
 
 The following machine learning models were evaluated:
 
@@ -355,7 +355,7 @@ Develop retention campaigns and special offers to increase engagement.
 
 ---
 
-## 🚀 Business Benefits
+##  Business Benefits
 
 This project provides several business advantages:
 
@@ -385,23 +385,7 @@ Business decisions are supported by analytical insights rather than assumptions.
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Customer-Personality-Analysis/
-│
-├── marketing_campaign.csv
-├── EDA.ipynb
-├── Feature_engineering_and_clustering.ipynb
-├── Feature_selection_and_classification.ipynb
-├── clustered_data.csv
-├── clustered_data-checkpoint.csv
-└── README.md
-```
-
----
-
-## 🎯 Skills Demonstrated
+ Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
@@ -418,7 +402,7 @@ Customer-Personality-Analysis/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Manogna**
 
